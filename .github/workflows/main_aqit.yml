@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'AQIT'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7A95D5112225405ABFC5D339D7F02213 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_040EC6FD390144A0935C49066F18F536 }}
